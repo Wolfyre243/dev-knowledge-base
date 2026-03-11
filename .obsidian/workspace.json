@@ -11,10 +11,14 @@
             "id": "85ec1dcf4583c082",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Artificial Intelligence/Introduction to AI/Deterministic vs Probabilistic Systems.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Deterministic vs Probabilistic Systems"
             }
           }
         ]
@@ -188,8 +192,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7c726df635709e96",
+  "active": "85ec1dcf4583c082",
   "lastOpenFiles": [
+    "Artificial Intelligence/Introduction to AI",
+    "Artificial Intelligence/Introduction to AI/Deterministic vs Probabilistic Systems.md",
+    "Artificial Intelligence",
     "Untitled.canvas",
     "Untitled 2.base",
     "Untitled 1.base",
