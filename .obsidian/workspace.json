@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Artificial Intelligence/Introduction to AI/Deterministic vs Probabilistic Systems.md",
+                "file": "Artificial Intelligence/References.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Deterministic vs Probabilistic Systems"
+              "title": "References"
             }
           }
         ]
@@ -94,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Artificial Intelligence/References.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for References"
             }
           },
           {
@@ -112,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Artificial Intelligence/References.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from References"
             }
           },
           {
@@ -154,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Artificial Intelligence/References.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of References"
             }
           },
           {
@@ -192,15 +195,22 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "85ec1dcf4583c082",
+  "active": "7c726df635709e96",
   "lastOpenFiles": [
-    "Artificial Intelligence/Introduction to AI",
+    "Artificial Intelligence/Agentic Systems/Multi-agent Systems.md",
+    "Artificial Intelligence/Agentic Systems/Single Agent System.md",
     "Artificial Intelligence/Introduction to AI/Deterministic vs Probabilistic Systems.md",
-    "Artificial Intelligence",
+    "Artificial Intelligence/Agentic Systems",
+    "Untitled.base",
+    "2026-03-29.md",
     "Untitled.canvas",
+    "Artificial Intelligence/References.md",
+    "Artificial Intelligence/References/Untitled.md",
+    "Artificial Intelligence/References",
+    "Artificial Intelligence/Introduction to AI",
+    "Artificial Intelligence",
     "Untitled 2.base",
     "Untitled 1.base",
-    "Untitled.base",
     "create a link.md",
     "Welcome.md"
   ]
